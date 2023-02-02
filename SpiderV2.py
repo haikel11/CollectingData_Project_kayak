@@ -13,7 +13,7 @@ class BookingSpider(scrapy.Spider):
     list_url = ['https://www.booking.com/searchresults.fr.html?aid=304142&ss={}&offset='.format(n) for n in top_cities]
     start_urls = []
     for n in list_url:
-        for i in range(0,25,25):
+        for i in range(0,25):
             start_urls.append(str(n) + str(i))
     
     def start_requests(self):
