@@ -40,4 +40,4 @@ As the project has just started, your team doesn't have any data that can be use
 * Create animated framed graphics
 
 
-- video link : https://share.vidyard.com/watch/Vswm8JH98aTDRKbxcDH8C8?
+video link : https://share.vidyard.com/watch/Vswm8JH98aTDRKbxcDH8C8?
