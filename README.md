@@ -38,6 +38,3 @@ As the project has just started, your team doesn't have any data that can be use
 * Store all the information above in a data lake
 * Extract, transform and load cleaned data from your datalake to a data warehouse
 * Create animated framed graphics
-
-
-video link : https://share.vidyard.com/watch/Vswm8JH98aTDRKbxcDH8C8?
