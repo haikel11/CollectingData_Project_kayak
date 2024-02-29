@@ -1,6 +1,6 @@
 # Plan your trip with Kayak 
 
-- link of the demonstration : https://share.vidyard.com/watch/Vswm8JH98aTDRKbxcDH8C8?
+Link of the demonstration : https://share.vidyard.com/watch/Vswm8JH98aTDRKbxcDH8C8?
 
 ## Company's description 
 
